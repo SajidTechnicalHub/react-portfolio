@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.58e21497.css",
+    "main.js": "/react-portfolio/static/js/main.eeae64e8.js",
+    "static/media/profilephoto.jpg": "/react-portfolio/static/media/profilephoto.d2abca528c75a2fa4b40.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Poppins-Thin.ttf": "/react-portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/react-portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/react-portfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/react-portfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/react-portfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/react-portfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/react-portfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/bg.jpg": "/react-portfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.58e21497.css.map": "/react-portfolio/static/css/main.58e21497.css.map",
+    "main.eeae64e8.js.map": "/react-portfolio/static/js/main.eeae64e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e21497.css",
+    "static/js/main.eeae64e8.js"
+  ]
+}
